@@ -1,0 +1,299 @@
+[
+  {
+    "id": "CP001",
+    "name": "State Bank of India - Rohini Branch",
+    "type": "PSB",
+    "city": "Delhi",
+    "state": "Delhi",
+    "lat": 28.7041,
+    "lng": 77.1025,
+    "schemes_handled": [
+      "Micro Finance",
+      "Term Loan"
+    ],
+    "npa_status": "Low",
+    "eligible_for_routing": "Yes"
+  },
+  {
+    "id": "CP002",
+    "name": "Delhi SC/ST Development Finance Corp",
+    "type": "SCA",
+    "city": "Delhi",
+    "state": "Delhi",
+    "lat": 28.6139,
+    "lng": 77.209,
+    "schemes_handled": [
+      "Micro Finance",
+      "Term Loan",
+      "Education Loan"
+    ],
+    "npa_status": "Low",
+    "eligible_for_routing": "Yes"
+  },
+  {
+    "id": "CP003",
+    "name": "Punjab National Bank - Karol Bagh",
+    "type": "PSB",
+    "city": "Delhi",
+    "state": "Delhi",
+    "lat": 28.6519,
+    "lng": 77.1909,
+    "schemes_handled": [
+      "Term Loan"
+    ],
+    "npa_status": "Medium",
+    "eligible_for_routing": "Yes"
+  },
+  {
+    "id": "CP004",
+    "name": "UP SC Finance Corporation",
+    "type": "SCA",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "lat": 26.8467,
+    "lng": 80.9462,
+    "schemes_handled": [
+      "Micro Finance",
+      "Education Loan"
+    ],
+    "npa_status": "Low",
+    "eligible_for_routing": "Yes"
+  },
+  {
+    "id": "CP005",
+    "name": "Bank of Baroda - Andheri",
+    "type": "PSB",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "lat": 19.1197,
+    "lng": 72.8468,
+    "schemes_handled": [
+      "Micro Finance",
+      "Term Loan"
+    ],
+    "npa_status": "High (Overdue)",
+    "eligible_for_routing": "No"
+  },
+  {
+    "id": "CP006",
+    "name": "Maharashtra RRB",
+    "type": "RRB",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "schemes_handled": [
+      "Term Loan",
+      "Education Loan"
+    ],
+    "npa_status": "Low",
+    "eligible_for_routing": "Yes"
+  },
+  {
+    "id": "CP007",
+    "name": "ABC NBFC-MFI Ltd",
+    "type": "NBFC-MFI",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "schemes_handled": [
+      "Micro Finance"
+    ],
+    "npa_status": "Medium",
+    "eligible_for_routing": "Yes"
+  },
+  {
+    "id": "CP008",
+    "name": "Karnataka SC Corporation",
+    "type": "SCA",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "lat": 12.9352,
+    "lng": 77.6245,
+    "schemes_handled": [
+      "Micro Finance",
+      "Term Loan",
+      "Education Loan"
+    ],
+    "npa_status": "Low",
+    "eligible_for_routing": "Yes"
+  },
+  {
+    "id": "CP009",
+    "name": "Canara Bank - Chennai Central",
+    "type": "PSB",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "lat": 13.0827,
+    "lng": 80.2707,
+    "schemes_handled": [
+      "Term Loan"
+    ],
+    "npa_status": "Low",
+    "eligible_for_routing": "Yes"
+  },
+  {
+    "id": "CP010",
+    "name": "Tamil Nadu SC Development Corp",
+    "type": "SCA",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "lat": 13.0674,
+    "lng": 80.2376,
+    "schemes_handled": [
+      "Micro Finance",
+      "Education Loan"
+    ],
+    "npa_status": "High (Overdue)",
+    "eligible_for_routing": "No"
+  },
+  {
+    "id": "CP011",
+    "name": "West Bengal RRB",
+    "type": "RRB",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "schemes_handled": [
+      "Micro Finance",
+      "Term Loan"
+    ],
+    "npa_status": "Low",
+    "eligible_for_routing": "Yes"
+  },
+  {
+    "id": "CP012",
+    "name": "XYZ NBFC-MFI",
+    "type": "NBFC-MFI",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "lat": 22.5958,
+    "lng": 88.2636,
+    "schemes_handled": [
+      "Micro Finance"
+    ],
+    "npa_status": "Low",
+    "eligible_for_routing": "Yes"
+  },
+  {
+    "id": "CP013",
+    "name": "Rajasthan SC/ST Finance Corp",
+    "type": "SCA",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "lat": 26.9124,
+    "lng": 75.7873,
+    "schemes_handled": [
+      "Micro Finance",
+      "Term Loan",
+      "Education Loan"
+    ],
+    "npa_status": "Medium",
+    "eligible_for_routing": "Yes"
+  },
+  {
+    "id": "CP014",
+    "name": "Union Bank - Jaipur Main",
+    "type": "PSB",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "lat": 26.9196,
+    "lng": 75.7878,
+    "schemes_handled": [
+      "Term Loan"
+    ],
+    "npa_status": "Low",
+    "eligible_for_routing": "Yes"
+  },
+  {
+    "id": "CP015",
+    "name": "Gujarat SC Finance Corp",
+    "type": "SCA",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "lat": 23.0225,
+    "lng": 72.5714,
+    "schemes_handled": [
+      "Micro Finance",
+      "Education Loan"
+    ],
+    "npa_status": "Low",
+    "eligible_for_routing": "Yes"
+  },
+  {
+    "id": "CP016",
+    "name": "Bihar RRB",
+    "type": "RRB",
+    "city": "Patna",
+    "state": "Bihar",
+    "lat": 25.5941,
+    "lng": 85.1376,
+    "schemes_handled": [
+      "Micro Finance",
+      "Term Loan"
+    ],
+    "npa_status": "High (Overdue)",
+    "eligible_for_routing": "No"
+  },
+  {
+    "id": "CP017",
+    "name": "Bihar SC/ST Development Corp",
+    "type": "SCA",
+    "city": "Patna",
+    "state": "Bihar",
+    "lat": 25.6093,
+    "lng": 85.1235,
+    "schemes_handled": [
+      "Micro Finance",
+      "Term Loan",
+      "Education Loan"
+    ],
+    "npa_status": "Low",
+    "eligible_for_routing": "Yes"
+  },
+  {
+    "id": "CP018",
+    "name": "Kerala Bank - Kochi",
+    "type": "PSB",
+    "city": "Kochi",
+    "state": "Kerala",
+    "lat": 9.9312,
+    "lng": 76.2673,
+    "schemes_handled": [
+      "Term Loan"
+    ],
+    "npa_status": "Low",
+    "eligible_for_routing": "Yes"
+  },
+  {
+    "id": "CP019",
+    "name": "Kerala SC Development Corp",
+    "type": "SCA",
+    "city": "Kochi",
+    "state": "Kerala",
+    "lat": 9.9816,
+    "lng": 76.2999,
+    "schemes_handled": [
+      "Micro Finance",
+      "Education Loan"
+    ],
+    "npa_status": "Low",
+    "eligible_for_routing": "Yes"
+  },
+  {
+    "id": "CP020",
+    "name": "Telangana NBFC-MFI Alliance",
+    "type": "NBFC-MFI",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "schemes_handled": [
+      "Micro Finance"
+    ],
+    "npa_status": "Medium",
+    "eligible_for_routing": "Yes"
+  }
+]
